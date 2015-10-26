@@ -1,5 +1,5 @@
 var assert = require('assert');
-var value = require('./');
+var value = require('./value.js');
 
 describe('value', function() {
 
